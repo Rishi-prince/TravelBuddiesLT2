@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TravelBuddies</string>
+    <string name="app_tagline">Your Trusted Emergency Travel Network</string>
+    <string name="trip_destination_default">Active Trip: Tokyo &amp; Kyoto Tour ✈️</string>
+
+    <string name="tab_all_contacts">All Contacts (%d)</string>
+    <string name="tab_emergency_contacts">Emergency Contacts (%d)</string>
+
+    <string name="search_hint">Search contacts by name</string>
+    <string name="clear_search">Clear search</string>
+
+    <string name="emergency_contact_checkbox">Emergency Contact</string>
+    <string name="quick_call">Quick Call</string>
+    <string name="quick_sms">Quick SMS Alert</string>
+    <string name="remove_emergency">Remove</string>
+    <string name="undo_action">UNDO</string>
+
+    <string name="share_emergency_list">Share List 📤</string>
+    <string name="share_list_title">Share Emergency List</string>
+    <string name="contact_details_title">Contact Safety Details</string>
+    <string name="select_category">Category Tag:</string>
+    <string name="set_as_primary">Primary Emergency Contact ⭐</string>
+    <string name="share_contact">Share Contact</string>
+    <string name="close">Close</string>
+
+    <string name="permission_required_title">Contacts Permission Needed</string>
+    <string name="permission_required_desc">TravelBuddies requires access to your device contacts to let you choose trusted emergency contacts for your trip.</string>
+    <string name="grant_permission_btn">Grant Contacts Permission</string>
+
+    <string name="empty_all_contacts">No contacts found on device.</string>
+    <string name="empty_search_results">No contacts match your search.</string>
+    <string name="empty_emergency_contacts">No Emergency Contacts selected yet.\n\nSwitch to the "All Contacts" tab and check the box next to your trusted travel buddies!</string>
+
+    <string name="add_sample_contacts">Add Demo Sample Contacts</string>
+    <string name="try_demo_contacts">Or Try with Demo Contacts</string>
+    <string name="emergency_subheader">Tap green button to Call or blue button to send SMS Alert instantly.</string>
+    <string name="header_emergency_count">%d Emergency</string>
+    <string name="sos_button">SOS Broadcast</string>
+
+    <string name="btn_ambulance">Medical 112</string>
+    <string name="btn_police">Police 911</string>
+    <string name="btn_safe_checkin">I\'m Safe 💚</string>
+
+    <string name="chip_all">All</string>
+    <string name="chip_family">Family</string>
+    <string name="chip_medical">Medical</string>
+    <string name="chip_hotel">Hotel</string>
+    <string name="chip_buddy">Buddy</string>
+
+    <string name="edit_trip_title">Edit Active Trip Name</string>
+    <string name="edit_trip_hint">Enter trip destination (e.g. Paris 2026)</string>
+    <string name="save">Save</string>
+
+    <string name="safe_checkin_dialog_title">Send Safety Check-In?</string>
+    <string name="safe_checkin_dialog_desc">Send a reassurance SMS alert to all selected emergency contacts confirming your safe arrival.</string>
+
+    <string name="sos_dialog_title">Broadcast Emergency SOS?</string>
+    <string name="sos_dialog_desc">This will open quick SMS alert for your selected emergency travel contacts with your pre-filled location request.</string>
+    <string name="sos_confirm">Send Emergency Alert</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="toast_permission_denied">Permission denied to make phone calls</string>
+    <string name="toast_call_initiated">Initiating call to %s</string>
+    <string name="toast_sms_initiated">Opening SMS alert for %s</string>
+    <string name="toast_added_emergency">%s added to Emergency Contacts</string>
+    <string name="toast_removed_emergency">%s removed from Emergency Contacts</string>
+    <string name="toast_trip_updated">Trip updated to: %s</string>
+</resources>
